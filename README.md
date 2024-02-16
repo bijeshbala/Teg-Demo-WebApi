@@ -18,4 +18,6 @@ dotnet restore
 dotnet build
 
 ## Execute
-dotnet run
+dotnet run.
+
+The application is auto deployed when you check into the main branch. This is accomplished using gitflow.
